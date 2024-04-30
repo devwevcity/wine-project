@@ -1,6 +1,6 @@
-import "./App.css";
 import About_Us from "./components/About_Us";
 import Awards from "./components/Awards";
+import Dot from "./components/Dot";
 import First from "./components/First";
 import Footer from "./components/Footer";
 import Get_In_Touch from "./components/Get_In_Touch";
@@ -21,6 +21,7 @@ function App() {
       <Awards />
       <Get_In_Touch />
       <Footer />
+      <Dot />
     </>
   );
 }
